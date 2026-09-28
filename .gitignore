@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Testing & Build Outputs
+dist/
+build/
+coverage/
+*.log
+
+# Environment & API keys
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE / OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
